@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node"
+        ],
+        "module": "commonjs", // or "esnext"
+        "target": "es2020"
+    }
+}
